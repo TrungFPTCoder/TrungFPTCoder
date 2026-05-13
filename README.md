@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Nguyễn Ngọc Trung
 
-<!--
-**TrungFPTCoder/TrungFPTCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Fullstack Web Developer
 
-Here are some ideas to get you started:
+### 💡 About Me
+💻 I'm a full stack developer with a passion for building beautiful, functional, and scalable web applications.  
+Well-versed in both Front-End and Back-End development. Experienced with ReactJS, Node.js, Java, MongoDB, PostgreSQL, React Native, and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Contact Information
+- 💼 Position: Fullstack Web Developer
+- 📧 Email: trungnn.web.dev@gmail.com
+
+### 🛠️ Skills & Technologies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="ReactJS" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+
+</div>
+
+### 📫 Connect with Me
+Feel free to reach out via email for collaboration opportunities or web development projects!
+
+---
+
+Thank you for visiting my profile!
