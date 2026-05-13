@@ -27,6 +27,13 @@ Well-versed in both Front-End and Back-End development. Experienced with ReactJS
 ### 📫 Connect with Me
 Feel free to reach out via email for collaboration opportunities or web development projects!
 
+## 🐍 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TrungFPTCoder/TrungFPTCoder/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TrungFPTCoder/TrungFPTCoder/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TrungFPTCoder/TrungFPTCoder/output/github-snake.svg">
+</picture>
 ---
 
 Thank you for visiting my profile!
