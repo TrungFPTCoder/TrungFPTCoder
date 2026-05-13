@@ -34,6 +34,8 @@ Feel free to reach out via email for collaboration opportunities or web developm
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TrungFPTCoder/TrungFPTCoder/output/github-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/TrungFPTCoder/TrungFPTCoder/output/github-snake.svg">
 </picture>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TrungFPTCoder&theme=highcontrast)](https://git.io/streak-stats)
 ---
 
 Thank you for visiting my profile!
