@@ -8,7 +8,7 @@ Well-versed in both Front-End and Back-End development. Experienced with ReactJS
 
 ### 🚀 Contact Information
 - 💼 Position: Fullstack Web Developer
-- 📧 Email: trungnn.web.dev@gmail.com
+- 📧 Email: trungnguyenngocktm@gmail.com
 
 ### 🛠️ Skills & Technologies
 
